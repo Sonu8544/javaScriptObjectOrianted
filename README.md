@@ -1,2 +1,0 @@
-# javaScriptObjectOrianted
-javaScriptObjectOrianted
